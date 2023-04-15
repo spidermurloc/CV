@@ -1,9 +1,8 @@
 .gradiente {
-    background: linear-gradient(to bottom right, red, blue);
+    background: linear-gradient(to bottom right, rgb(189, 26, 135), rgb(6, 6, 106));
     color: rgb(255, 255, 255);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 16px;
   }
-  
