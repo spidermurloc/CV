@@ -10,7 +10,8 @@
     background: linear-gradient(to bottom right, rgb(14, 213, 64), rgb(137, 217, 144));
     color: rgb(255, 255, 255);
     border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-size: 32px;
+    text-align: center;
   }
