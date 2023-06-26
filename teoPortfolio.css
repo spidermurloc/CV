@@ -1,32 +1,32 @@
 .gradiente {
-    background: rgb(7.18, 7.18, 92);
-    color: rgb(255, 255, 255);
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
-  }
+  background: rgb(7.18, 7.18, 92);
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+}
 .botonwsp {
-    background: linear-gradient(to bottom right, rgb(14, 213, 64), rgb(137, 217, 144));
-    color: rgb(255, 255, 255);
-    border: none;
-    padding: 20px 40px;
-    border-radius: 10px;
-    font-size: 32px;
-    text-align: center;
-  }
+  background: linear-gradient(to bottom right, rgb(14, 213, 64), rgb(137, 217, 144));
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 20px 40px;
+  border-radius: 10px;
+  font-size: 32px;
+  text-align: center;
+}
 
-  .whatsApp{
-    position:fixed;
-    width:200px;
-    height:200px;
-    top:325px;
-    left:650px;
-    background-color:#25d366;
-    color:#FFF;
-    border-radius:200px;
-    text-align:top;
-    font-size:200px;
-    box-shadow: 2px 2px 3px #999;
-    z-index:100;
+.whatsApp{
+  position:fixed;
+  width:200px;
+  height:200px;
+  top:325px;
+  left:650px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:200px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index:100;
 }
