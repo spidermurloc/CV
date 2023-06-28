@@ -1,32 +1,45 @@
-.gradiente {
-  background: rgb(7.18, 7.18, 92);
-  color: rgb(255, 255, 255);
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  font-size: 16px;
+.body{
+  background-color: lightblue ;
 }
-.botonwsp {
-  background: linear-gradient(to bottom right, rgb(14, 213, 64), rgb(137, 217, 144));
-  color: rgb(255, 255, 255);
-  border: none;
-  padding: 20px 40px;
-  border-radius: 10px;
-  font-size: 32px;
+.h1{
+  font-size: 2.5rem;
+  font-family: 'Rowdies', cursive;
+}
+.h2{
+  font-size: 1.2rem;
+  font-family: 'Rowdies', cursive;
+}
+/*Navbar*/
+.navbar{
+  padding: 1rem;
+  background-color: rgb(36, 136, 255);
+}
+.navbar-collapse{
+  align-items: left;
+  justify-content: space-between;
+}
+/*Section*/
+.section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+/*Main*/
+.main{
+  min-height: 500px;
   text-align: center;
-}
 
-.whatsApp{
-  position:fixed;
-  width:200px;
-  height:200px;
-  top:325px;
-  left:650px;
-  background-color:#25d366;
-  color:#FFF;
-  border-radius:200px;
-  text-align:center;
-  font-size:30px;
-  box-shadow: 2px 2px 3px #999;
-  z-index:100;
+}
+.main-main{
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+
+}
+.main-imagen{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px;
 }
