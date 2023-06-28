@@ -2,11 +2,11 @@
   background-color: lightblue ;
 }
 .h1{
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-family: 'Rowdies', cursive;
 }
 .h2{
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'Rowdies', cursive;
 }
 /*Navbar*/
@@ -34,7 +34,7 @@
 .main-main{
   justify-content: center;
   align-items: center;
-  padding: 70px;
+  padding: 50px;
 
 }
 .main-imagen{
